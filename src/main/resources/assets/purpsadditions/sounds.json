@@ -1,0 +1,10 @@
+{
+  "disc_celeste_prologue": {
+    "sounds":[
+      {
+        "name": "purpsadditions:disc_celeste_prologue",
+        "stream": true
+      }
+    ]
+  }
+}
