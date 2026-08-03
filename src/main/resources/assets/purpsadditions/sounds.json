@@ -1,6 +1,7 @@
 {
   "disc_celeste_prologue": {
-    "sounds":[
+    "category": "record",
+    "sounds": [
       {
         "name": "purpsadditions:disc_celeste_prologue",
         "stream": true
