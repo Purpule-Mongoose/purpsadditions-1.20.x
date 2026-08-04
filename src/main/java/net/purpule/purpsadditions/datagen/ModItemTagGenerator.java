@@ -21,7 +21,27 @@ public class ModItemTagGenerator extends ItemTagsProvider {
     protected void addTags(HolderLookup.Provider pProvider) {
 
         this.tag(ItemTags.MUSIC_DISCS)
-                .add(ModItems.DISCPROLOGUE.get());
+                .add(ModItems.DISC_CELESTE_PROLOGUE.get(),
+                        ModItems.DISC_CELESTE_FIRST_STEPS.get(),
+                        ModItems.DISC_CELESTE_RESURRECTIONS.get(),
+                        ModItems.DISC_CELESTE_AWAKE.get(),
+                        ModItems.DISC_CELESTE_POSTCARD.get(),
+                        ModItems.DISC_CELESTE_CHECKING_IN.get(),
+                        ModItems.DISC_CELESTE_HOSPITALITY.get(),
+                        ModItems.DISC_CELESTE_SCATTERED_LOST.get(),
+                        ModItems.DISC_CELESTE_GOLDEN.get(),
+                        ModItems.DISC_CELESTE_ANXIETY.get(),
+                        ModItems.DISC_CELESTE_QUIET_FALLING.get(),
+                        ModItems.DISC_CELESTE_MIRROR.get(),
+                        ModItems.DISC_CELESTE_MADELINE_THEO.get(),
+                        ModItems.DISC_CELESTE_STARJUMP.get(),
+                        ModItems.DISC_CELESTE_REFLECTION.get(),
+                        ModItems.DISC_CELESTE_CONFRONTING_MYSELF.get(),
+                        ModItems.DISC_CELESTE_LITTLE_GOTH.get(),
+                        ModItems.DISC_CELESTE_REACH_FOR_SUMMIT.get(),
+                        ModItems.DISC_CELESTE_EXHALE.get(),
+                        ModItems.DISC_CELESTE_MOUNTAIN_HEART.get(),
+                        ModItems.DISC_CELESTE_DEAREST_FRIENDS.get());
 
 
 

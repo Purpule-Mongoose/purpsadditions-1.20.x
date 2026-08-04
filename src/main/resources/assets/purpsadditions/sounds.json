@@ -7,5 +7,185 @@
         "stream": true
       }
     ]
+  },
+  "disc_celeste_first_steps": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_first_steps",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_resurrections": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_resurrections",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_awake": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_awake",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_postcard": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_postcard",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_checking_in": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_checking_in",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_hospitality": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_hospitality",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_scattered_lost": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_scattered_lost",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_golden": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_golden",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_anxiety": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_anxiety",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_quiet_falling": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_quiet_falling",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_mirror": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_mirror",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_madeline_theo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_madeline_theo",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_starjump": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_starjump",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_reflection": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_reflection",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_confronting_myself": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_confronting_myself",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_little_goth": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_little_goth",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_reach_for_summit": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_reach_for_summit",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_exhale": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_exhale",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_mountain_heart": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_mountain_heart",
+        "stream": true
+      }
+    ]
+  },
+  "disc_celeste_dearest_friends": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "purpsadditions:disc_celeste_dearest_friends",
+        "stream": true
+      }
+    ]
   }
 }

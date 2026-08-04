@@ -17,10 +17,10 @@ public class ModItemModelProvider extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-        simpleItem(ModItems.DISCPROLOGUE);
-        simpleItem(ModItems.DISCPROLOGUE);
-        simpleItem(ModItems.DISCPROLOGUE);
-        simpleItem(ModItems.DISCPROLOGUE);
+        simpleItem(ModItems.DISC_CELESTE_PROLOGUE);
+        simpleItem(ModItems.DISC_CELESTE_PROLOGUE);
+        simpleItem(ModItems.DISC_CELESTE_PROLOGUE);
+        simpleItem(ModItems.DISC_CELESTE_PROLOGUE);
 
     }
 

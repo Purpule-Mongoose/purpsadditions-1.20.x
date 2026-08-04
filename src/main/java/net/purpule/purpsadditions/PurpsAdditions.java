@@ -45,7 +45,7 @@ public class PurpsAdditions {
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
-            event.accept(ModItems.DISCPROLOGUE);
+            event.accept(ModItems.DISC_CELESTE_PROLOGUE);
         }
     }
 
